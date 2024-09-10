@@ -1,0 +1,25 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.ruff_cache
+
+# venv
+.venv
+
+.env
+
+out/*
+*.out
+logs/*
+*.log
+
+# data
+data/*
+logs/*
+model_output/*
+dataset/*

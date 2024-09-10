@@ -1,0 +1,25 @@
+{
+  "words": [
+    "dotenv",
+    "levelname",
+    "markdownlint",
+    "pycache",
+    "pydocstyle",
+    "taplo",
+    "unfixable",
+    "venv"
+  ],
+  "enableFiletypes": ["python", "markdown", "yaml", "toml"],
+  "enabledLanguageIds": [
+    "json",
+    "jsonc",
+    "markdown",
+    "plaintext",
+    "python",
+    "text",
+    "yaml",
+    "toml"
+  ],
+  "ignorePaths": [".vscode", "requirements*.lock"],
+  "dictionaries": ["python"]
+}
